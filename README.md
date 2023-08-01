@@ -13,3 +13,8 @@ npm install jquery --save-dev
 
 npm run build
 
+
+artisan migrate:fresh --seed
+artisan ide-helper:generate
+artisan ide-helper:models --smart-reset -W
+
