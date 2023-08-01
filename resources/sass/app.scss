@@ -1,5 +1,9 @@
 // Fonts
-@import url('https://fonts.bunny.net/css?family=Nunito');
+//@import url('https://fonts.bunny.net/css?family=Nunito');
+
+//self hosted font
+@import "@fontsource/nunito";
+@import "@fontsource/nunito/500.css";
 
 // Variables
 @import 'variables';

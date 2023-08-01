@@ -18,3 +18,4 @@ artisan migrate:fresh --seed
 artisan ide-helper:generate
 artisan ide-helper:models --smart-reset -W
 
+npm install @fontsource/nunito
