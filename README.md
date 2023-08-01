@@ -9,7 +9,7 @@ php artisan ui bootstrap --auth
 
 npm install
 
-npm run build
+npm install jquery --save-dev
 
-git init
+npm run build
 
