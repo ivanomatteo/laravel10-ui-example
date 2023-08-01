@@ -20,6 +20,8 @@ artisan ide-helper:models --smart-reset -W
 
 npm install @fontsource/nunito
 
+traduzioni in italiano
+https://laravel-lang.com/installation/
 composer require laravel-lang/common --dev
 artisan lang:add it
 artisan lang:update
